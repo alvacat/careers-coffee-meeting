@@ -35,7 +35,7 @@ When you’re finished with your coffee meeting, follow up after via email. Here
 3. **Provide value.** You can provide a book recommendation you know they’d enjoy. Or, invite them to an event you’re going to in the future that might interested them. 
 4. **Make an ask.** Keep propelling the conversation forward—one ask at a time. An example of a follow-up ask might be, “You’d mentioned your friend at Company X might be up for a chat - would you be comfortable making the intro? Thank you for thinking of it.”
 
-## Conclusion 
+## It's All About Relationship Building
 
 While not every coffee meeting will turn into a formal job interview (remember the funnel from an earlier lesson?), there is always something to gain from every interaction. Even if nothing else comes out of it, it’s still good practice. And, of course, a new connection that you can nurture over time. Who knows where it may take you in the future.
 
