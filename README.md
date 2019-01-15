@@ -1,6 +1,6 @@
-# The Coffee Meeting 
+# The Coffee Meeting/Informational Interview 
 
-Congrats! You landed a coffee meeting. While the coffee meeting isn’t a formal interview, you still need to think of it as a professional encounter. Everything you do professionally-speaking should be treated like an interview.
+Congrats! You landed a coffee meeting (also known as an informational interview). While the coffee meeting isn’t a formal interview, you still need to think of it as a professional encounter. Everything you do professionally-speaking should be treated like an interview.
 
 Even if you’re meeting a friend for coffee to talk about their job as a developer—that’s an interview. It may not feel formal, and you may not get asked questions that you’d expect in an interview. Nonetheless, if a conversation could lead to an introduction to someone in a person’s network (where there may be a potential opportunity), prepare to be evaluated. People offer to open their networks to people they know will reflect positively on them.
 
@@ -30,7 +30,7 @@ Below are key things you should do before, during, and after your coffee meeting
 
 When you’re finished with your coffee meeting, follow up after via email with a thank you. Here are four things you should include in your message. 
 
-1. **Thank them** for taking the time to meet with you.
+1. **Thank them** for taking the time to meet with you. See examples of great thank you emails in an upcoming lession.
 2. **Review** (or recap) what you discussed. For example, “Great to chat with you about A, B, C. Your insight on C was helpful in X way.” 
 3. **Provide value.** You can provide a book recommendation you know they’d enjoy. Or, invite them to an event you’re going to in the future that might interested them. 
 4. **Make an ask.** Keep propelling the conversation forward—one ask at a time. An example of a follow-up ask might be, “You’d mentioned your friend at Company X might be up for a chat - would you be comfortable making the intro? Thank you for thinking of it.”
