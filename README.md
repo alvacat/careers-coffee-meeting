@@ -2,7 +2,7 @@
 
 Congrats! You landed a coffee meeting (also known as an informational interview). While the coffee meeting isn’t a formal interview, you still need to think of it as a professional encounter. Everything you do professionally-speaking should be treated like an interview.
 
-Even if you’re meeting a friend for coffee to talk about their job as a developer—that’s an interview. It may not feel formal, and you may not get asked questions that you’d expect in an interview. Nonetheless, if a conversation could lead to an introduction to someone in a person’s network (where there may be a potential opportunity), prepare to be evaluated. People offer to open their networks to people they know will reflect positively on them.
+Even if you’re meeting a friend for coffee to talk about their job in your field, that's an interview. It may not feel formal, and you may not get asked questions that you’d expect in an interview. Nonetheless, if a conversation could lead to an introduction to someone in a person’s network (where there may be a potential opportunity), prepare to be evaluated. People offer to open their networks to people they know will reflect positively on them.
 
 Below are key things you should do before, during, and after your coffee meeting. 
 
